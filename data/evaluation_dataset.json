@@ -1,0 +1,84 @@
+[
+
+    {
+
+        "question": "What is hypertension?",
+
+        "reference_answer": "Hypertension is a condition in which blood pressure remains persistently elevated."
+
+    },
+
+    {
+
+        "question": "What are the common symptoms of diabetes?",
+
+        "reference_answer": "Common symptoms of diabetes can include increased thirst, frequent urination, fatigue, and blurred vision."
+
+    },
+
+    {
+
+        "question": "What is anemia?",
+
+        "reference_answer": "Anemia is a condition in which the blood has insufficient healthy red blood cells or hemoglobin."
+
+    },
+
+    {
+
+        "question": "What are common symptoms of asthma?",
+
+        "reference_answer": "Common asthma symptoms include wheezing, coughing, shortness of breath, and chest tightness."
+
+    },
+
+    {
+
+        "question": "What is migraine?",
+
+        "reference_answer": "Migraine is a neurological condition that can cause recurring headaches, often accompanied by nausea and sensitivity to light or sound."
+
+    },
+
+    {
+
+        "question": "What is arthritis?",
+
+        "reference_answer": "Arthritis refers to conditions that cause joint inflammation, pain, stiffness, or reduced mobility."
+
+    },
+
+    {
+
+        "question": "What is anemia commonly associated with?",
+
+        "reference_answer": "Anemia may be associated with iron deficiency, vitamin deficiencies, blood loss, or other medical conditions."
+
+    },
+
+    {
+
+        "question": "What are common symptoms of influenza?",
+
+        "reference_answer": "Common influenza symptoms include fever, cough, sore throat, muscle aches, fatigue, and headache."
+
+    },
+
+    {
+
+        "question": "What is the purpose of blood pressure measurement?",
+
+        "reference_answer": "Blood pressure measurement assesses the force of blood against artery walls and helps identify high or low blood pressure."
+
+    },
+
+    {
+
+        "question": "How can people support general heart health?",
+
+        "reference_answer": "General heart health can be supported through regular physical activity, a balanced diet, avoiding tobacco, adequate sleep, and appropriate medical checkups."
+
+    }
+
+]
+ 
